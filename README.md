@@ -1,0 +1,2 @@
+# ICTCLAS
+ICTCLAS user license 
